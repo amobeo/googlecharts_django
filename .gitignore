@@ -2,26 +2,7 @@
 .vscode/settings.json
 
 # Virtaul Environment
-env_googlecharts/bin/activate
-env_googlecharts/bin/activate.csh
-env_googlecharts/bin/activate.fish
-env_googlecharts/bin/activate.ps1
-env_googlecharts/bin/activate.xsh
-env_googlecharts/bin/activate_this.py
-env_googlecharts/bin/django-admin
-env_googlecharts/bin/django-admin.py
-env_googlecharts/bin/easy_install
-env_googlecharts/bin/easy_install-3.7
-env_googlecharts/bin/pip
-env_googlecharts/bin/pip3
-env_googlecharts/bin/pip3.7
-env_googlecharts/bin/python
-env_googlecharts/bin/python-config
-env_googlecharts/bin/python3
-env_googlecharts/bin/python3.7
-env_googlecharts/bin/sqlformat
-env_googlecharts/bin/wheel
-env_googlecharts/include/python3.7m
+env_googlecharts/
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
