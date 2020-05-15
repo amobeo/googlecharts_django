@@ -6,6 +6,7 @@ Youtube Tutorial on how to dynamically generate Google Chart in Django:
 https://www.youtube.com/watch?v=8x4JKMIY718&t=9s
 
 ## How to Run the Project Locally
+Start your terminal and follow the listed steps!
 
 Step 1. Clone the repository to your local machine:
 
