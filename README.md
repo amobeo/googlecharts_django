@@ -15,15 +15,15 @@ Step 2. Navigate to the cloned directory:
 
 ```cd googlecharts_django```
 
-Step 3. Install the requirements(prefrebly on a virtual environemnt):
+Step 3. Install the dependencies(preferably on a virtual environment):
 
 ```pip install -r requirements.txt```
 
-Step 4. Navigate to project diretcory:
+Step 4. Navigate to project directory:
 
 ```cd googlecharts_django```
 
-Step 5. Create the database:
+Step 5. Create the database(activate your virtual environment before doing this if you have installed the dependencies in it):
 
 ```python manage.py migrate```
 
@@ -34,8 +34,3 @@ Step 6. Start the development server:
 Step 7. Visit the homepage of your project:
 
 Fire up your web browser and type `http://127.0.0.1:8000` in the address bar. Hit enter and you are ready to go!
-
-
-
-
-
