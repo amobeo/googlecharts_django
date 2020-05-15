@@ -5,3 +5,34 @@ The project has been made on Django 2.2, but the concepts shown in this project 
 Youtube Tutorial on how to dynamically generate Google Chart in Django: 
 https://www.youtube.com/watch?v=8x4JKMIY718&t=9s
 
+## How to Run the Project Locally
+
+Step 1. Clone the repository to your local machine:
+
+```git clone https://github.com/amobeo/googlecharts_django.git```
+
+Step 2. Navigate to the cloned directory:
+
+```cd googlecharts_django```
+
+Step 3. Install the requirements(prefrebly on a virtual environemnt):
+
+```pip install -r requirements.txt```
+
+Step 4. Navigate to project diretcory:
+```cd googlecharts_django```
+
+Step 5. Create the database:
+```python manage.py migrate```
+
+Step 6. Start the development server:
+```python manage.py runserver```
+
+Step 7. Visit the homepage of your project:
+
+Fire up your web browser and type `http://127.0.0.1:8000` in the address bar. Hit enter and you are ready to go!
+
+
+
+
+
