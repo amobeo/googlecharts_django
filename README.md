@@ -20,12 +20,15 @@ Step 3. Install the requirements(prefrebly on a virtual environemnt):
 ```pip install -r requirements.txt```
 
 Step 4. Navigate to project diretcory:
+
 ```cd googlecharts_django```
 
 Step 5. Create the database:
+
 ```python manage.py migrate```
 
 Step 6. Start the development server:
+
 ```python manage.py runserver```
 
 Step 7. Visit the homepage of your project:
